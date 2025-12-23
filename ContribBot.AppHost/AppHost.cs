@@ -68,7 +68,7 @@ static class ParameterDescriptions
 
     public const string Repositories = """
         **Repositories to check for contributions** (comma-separated list)  
-        Format: `owner/repo1,owner/repo2,owner/repo3` (e.g., `dotnet/aspire,communitytoolkit/aspire,microsoft/aspire.dev`)  
+        Format: `owner/repo1,owner/repo2,owner/repo3` (e.g., `dotnet/aspire,communitytoolkit/aspire,dotnet/docs-aspire,microsoft/aspire.dev`)  
         📋 **Note**: At least one repository is required. Use commas to separate multiple repositories.
         """;
 
